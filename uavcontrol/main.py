@@ -1,6 +1,9 @@
 import argparse
 import auvsi_suas.client
 
+import uavcontrol.receive_mission
+
+
 parser = argparse.ArgumentParser()
 parser.add_argument('--username')
 parser.add_argument('--password')
