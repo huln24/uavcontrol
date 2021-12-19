@@ -1,0 +1,7 @@
+git+https://github.com/Delaunay/mlbaselines.git
+git+https://github.com/Delaunay/sample-space
+torch
+torchvision
+filelock
+hydra-core
+hydra-submitit-launcher
