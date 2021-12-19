@@ -29,6 +29,11 @@ Getting Started
    cd uavcontrol
    pip install -e .
 
+   Before every commit
+
+   tox -e run-black
+   tox -e run-isort
+
 Mission Planner
 ~~~~~~~~~~~~~~~
 
