@@ -29,6 +29,18 @@ Getting Started
    cd uavcontrol
    pip install -e .
 
+Mission Planner
+~~~~~~~~~~~~~~~
+
+* `Mission Planner <https://firmware.ardupilot.org/Tools/MissionPlanner/>`_ 
+
+MacOS
+^^^^^
+
+* For MacOS `Mono <https://www.mono-project.com/docs/getting-started/install/mac/>`_ 
+* ``/Library/Frameworks/Mono.framework/Commands/mono``
+* ``export PATH=/Library/Frameworks/Mono.framework/Versions/Current/bin/:${PATH}``
+ystem.DllNotFoundException: libdl.so
 
 Layout
 ~~~~~~
