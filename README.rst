@@ -19,6 +19,15 @@ uavcontrol
 Getting Started
 ~~~~~~~~~~~~~~~
 
+.. code-block:: bash
+
+   pip install git+https://github.com/huln24/uavcontrol
+
+   For contributors
+
+   git clone https://github.com/huln24/uavcontrol
+   cd uavcontrol
+   pip install -e .
 
 
 Layout
